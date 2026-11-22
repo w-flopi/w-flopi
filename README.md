@@ -1,19 +1,17 @@
 # w_FloPi
 
-I build web tools for student life, interview practice, and everyday automation.
+I'm Emil, a student at Bauman Moscow State Technical University. I build web tools that make student life easier and automate repetitive tasks.
 
 [Projects](#projects) · [Activity](#activity) · [All repositories](https://github.com/w-flopi?tab=repositories)
 
 ## Projects
 
 - **[StaroSTATT](https://github.com/w-flopi/StaroSTATT)** — a digital logbook for class representatives.
-- **[PrepCam](https://github.com/w-flopi/sobes_ai)** — an interview practice tool with questions, case exercises, and recorded answers.
 - **[razgruzKA](https://github.com/w-flopi/razgruzka)** — a site for an automation service that builds bots, dashboards, and trackers.
-- **[ADAPTiv](https://github.com/w-flopi/ADAPTiv245)** — a website for a product development studio.
 
 **Stack used in these projects**
 
-[![HTML, CSS, JavaScript, and Tailwind CSS](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/tandpfun/skill-icons)
+[![HTML, CSS, and JavaScript](https://skillicons.dev/icons?i=html,css,js)](https://github.com/tandpfun/skill-icons)
 
 ## Activity
 
