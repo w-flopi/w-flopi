@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 288" width="840" height="288" role="img" aria-labelledby="title desc">
-<title id="title">Календарь вкладов GitHub</title><desc id="desc">16 недель по данным GitHub на 23 ноября 2026 года</desc>
+<title id="title">GitHub contribution calendar</title><desc id="desc">16 weeks of GitHub contributions through November 23, 2026</desc>
 <style>
 .active {animation: pulse 5s var(--delay) infinite}
 @keyframes pulse {0%, 32%, 100% {opacity:1} 13% {opacity:.38}}
@@ -10,8 +10,8 @@
 <defs><linearGradient id="beam"><stop stop-color="#5eead4" stop-opacity="0"/><stop offset=".8" stop-color="#5eead4" stop-opacity=".25"/><stop offset="1" stop-color="#5eead4" stop-opacity=".65"/></linearGradient></defs>
 <rect x="1" y="1" width="838" height="286" rx="24" fill="#0d1727" stroke="#33445b" stroke-width="2"/>
 <circle cx="40" cy="41" r="5" fill="#75f2d4"/>
-<text x="55" y="49" fill="#f0f6ff" font-size="23" font-weight="700" font-family="system-ui,sans-serif">Пульс вкладов</text>
-<g fill="#a5b7cb" font-size="14" font-family="system-ui,sans-serif"><text x="97" y="86">Авг</text><text x="269" y="86">Сен</text><text x="441" y="86">Окт</text><text x="613" y="86">Ноя</text><text x="39" y="133">Пн</text><text x="39" y="175">Ср</text><text x="39" y="217">Пт</text><text x="97" y="263">16 недель · данные на 23.11.2026</text><text x="678" y="263">Меньше → Больше</text></g>
+<text x="55" y="49" fill="#f0f6ff" font-size="23" font-weight="700" font-family="system-ui,sans-serif">Contribution pulse</text>
+<g fill="#a5b7cb" font-size="14" font-family="system-ui,sans-serif"><text x="97" y="86">Aug</text><text x="269" y="86">Sep</text><text x="441" y="86">Oct</text><text x="613" y="86">Nov</text><text x="39" y="133">Mon</text><text x="39" y="175">Wed</text><text x="39" y="217">Fri</text><text x="97" y="263">16 weeks · Nov 23, 2026 snapshot</text><text x="678" y="263">Less → More</text></g>
 <rect x="97" y="100" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="121" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="142" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="163" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="184" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="205" width="36" height="15" rx="5" fill="#1b293c"/><rect x="97" y="226" width="36" height="15" rx="5" fill="#1b293c"/>
 <rect x="140" y="100" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="121" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="142" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="163" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="184" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="205" width="36" height="15" rx="5" fill="#1b293c"/><rect x="140" y="226" width="36" height="15" rx="5" fill="#1b293c"/>
 <rect x="183" y="100" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="121" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="142" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="163" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="184" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="205" width="36" height="15" rx="5" fill="#1b293c"/><rect x="183" y="226" width="36" height="15" rx="5" fill="#1b293c"/>
