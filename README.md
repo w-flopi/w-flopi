@@ -15,6 +15,11 @@ I'm Emil, a student at Bauman Moscow State Technical University. I build web too
 
 ## Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w-flopi/w-flopi/snake-output/snake-dark.svg">
+  <img alt="Animated snake traversing Emil's GitHub contribution calendar" src="https://raw.githubusercontent.com/w-flopi/w-flopi/snake-output/snake.svg">
+</picture>
+
 [![GitHub contributions over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=w-flopi&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/w-flopi#js-contribution-activity-description)
 
 <details>
