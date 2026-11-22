@@ -21,10 +21,3 @@ I'm Emil, a student at Bauman Moscow State Technical University. I build web too
 </picture>
 
 [![GitHub contributions over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=w-flopi&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/w-flopi#js-contribution-activity-description)
-
-<details>
-<summary>Animated contribution calendar · November 23, 2026 snapshot</summary>
-
-![Animated contribution calendar covering 16 weeks](./assets/contribution-pulse.svg)
-
-</details>
