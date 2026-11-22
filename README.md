@@ -1,27 +1,27 @@
 # w_FloPi
 
-Делаю веб-инструменты для учёбы и автоматизации. Сейчас в репозиториях — журнал старосты, тренажёр собеседований и проекты про автоматизацию рутины.
+I build web tools for student life, interview practice, and everyday automation.
 
-[Проекты](#проекты) · [Активность](#активность) · [Все репозитории](https://github.com/w-flopi?tab=repositories)
+[Projects](#projects) · [Activity](#activity) · [All repositories](https://github.com/w-flopi?tab=repositories)
 
-## Проекты
+## Projects
 
-- **[StaroSTATT](https://github.com/w-flopi/StaroSTATT)** — электронный журнал старосты.
-- **[PrepCam](https://github.com/w-flopi/sobes_ai)** — тренажёр собеседований с вопросами, кейсами и записью ответов.
-- **[razgruzKA](https://github.com/w-flopi/razgruzka)** — сайт проекта по автоматизации рутины: боты, дашборды и трекеры.
-- **[ADAPTiv](https://github.com/w-flopi/ADAPTiv245)** — сайт студии разработки продуктов для бизнеса.
+- **[StaroSTATT](https://github.com/w-flopi/StaroSTATT)** — a digital logbook for class representatives.
+- **[PrepCam](https://github.com/w-flopi/sobes_ai)** — an interview practice tool with questions, case exercises, and recorded answers.
+- **[razgruzKA](https://github.com/w-flopi/razgruzka)** — a site for an automation service that builds bots, dashboards, and trackers.
+- **[ADAPTiv](https://github.com/w-flopi/ADAPTiv245)** — a website for a product development studio.
 
-**В коде этих проектов**
+**Stack used in these projects**
 
-[![HTML, CSS, JavaScript и Tailwind CSS](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/tandpfun/skill-icons)
+[![HTML, CSS, JavaScript, and Tailwind CSS](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/tandpfun/skill-icons)
 
-## Активность
+## Activity
 
-[![График вкладов за последние 31 день](https://github-readme-activity-graph.vercel.app/graph?username=w-flopi&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/w-flopi#js-contribution-activity-description)
+[![GitHub contributions over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=w-flopi&theme=github-compact&hide_border=true&hide_title=true&area=true)](https://github.com/w-flopi#js-contribution-activity-description)
 
 <details>
-<summary>Анимированный календарь · снимок за 23 ноября 2026</summary>
+<summary>Animated contribution calendar · November 23, 2026 snapshot</summary>
 
-![Анимированная карта вкладов за 16 недель](./assets/contribution-pulse.svg)
+![Animated contribution calendar covering 16 weeks](./assets/contribution-pulse.svg)
 
 </details>
