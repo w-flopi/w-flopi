@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 288" width="840" height="288" role="img" aria-label="w_FloPi — проекты и эксперименты">
+<defs>
+<linearGradient id="base" x2="1" y2="1"><stop stop-color="#0d1727"/><stop offset="1" stop-color="#1b2954"/></linearGradient>
+<linearGradient id="trace" x2="1" y2="1"><stop stop-color="#9c87ff"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#a4addb" opacity=".23"/></pattern>
+<clipPath id="clip"><rect x="1" y="1" width="838" height="286" rx="24"/></clipPath>
+</defs>
+<style>.orbit{transform-origin:647px 143px;animation:turn 18s linear infinite}@keyframes turn{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.orbit{animation:none}}</style>
+<g clip-path="url(#clip)">
+<rect width="840" height="288" fill="url(#base)"/>
+<rect x="418" width="422" height="288" fill="url(#dots)"/>
+<path d="M455 0v288M0 55h840M0 236h840" stroke="#849ac5" stroke-opacity=".16"/>
+<path d="M647 2v284M480 143h334" stroke="#99a9d5" stroke-opacity=".25" stroke-dasharray="3 7"/>
+<g fill="none" stroke="url(#trace)"><circle cx="647" cy="143" r="102" opacity=".25"/><circle cx="647" cy="143" r="74" opacity=".6"/><circle cx="647" cy="143" r="47" opacity=".3"/><path d="m647 99 43 44-43 44-43-44z" stroke-width="2"/></g>
+<g class="orbit"><circle cx="647" cy="41" r="5" fill="#a994ff"/><circle cx="721" cy="143" r="6" fill="#75f2d4"/><circle cx="545" cy="143" r="3" fill="#9e89ff"/></g>
+<path d="m638 143 7 7 13-14" stroke="#75f2d4" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="42" cy="30" r="5" fill="#75f2d4"/>
+<text x="57" y="35" fill="#a5b7cb" font-size="13" letter-spacing="3" font-family="monospace">GITHUB / PORTFOLIO</text>
+<text x="37" y="159" fill="#f3f6ff" font-size="76" font-weight="700" font-family="monospace">w_FloPi</text>
+<text x="42" y="201" fill="#a9c3d8" font-size="23" font-family="system-ui,sans-serif">Проекты и эксперименты</text>
+<path d="M42 259h52" stroke="#75f2d4" stroke-width="3" stroke-linecap="round"/>
+<path d="M104 259h20" stroke="#9e89ff" stroke-width="3" stroke-linecap="round"/>
+</g>
+<rect x="1" y="1" width="838" height="286" rx="24" fill="none" stroke="#354965" stroke-width="2"/>
+</svg>
