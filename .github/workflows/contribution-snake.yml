@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Contribution Pac-Man
 
 on:
   workflow_dispatch:
@@ -21,18 +21,16 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: Generate Platane/snk SVGs
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+      - name: Generate Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-light
-            dist/snake-dark.svg?palette=github-dark
+          games: pacman
       - name: Pass SVGs to publishing job
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: contribution-snake
-          path: dist/*.svg
+          path: dist/pacman-contribution-graph*.svg
           if-no-files-found: error
           retention-days: 1
 
@@ -63,10 +61,10 @@ jobs:
             status=$?
             if [ "$status" -ne 2 ]; then exit "$status"; fi
           fi
-          install -m 644 dist/snake.svg dist/snake-dark.svg output/
-          git -C output add -- snake.svg snake-dark.svg
+          install -m 644 dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg output/
+          git -C output add -- pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
           if git -C output diff --cached --quiet; then exit 0; fi
           git -C output -c user.name='github-actions[bot]' \
             -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-            commit -m 'Refresh contribution snake'
+            commit -m 'Refresh contribution Pac-Man'
           git -C output push origin HEAD:refs/heads/snake-output
